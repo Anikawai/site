@@ -121,7 +121,6 @@ img:hover {
 </div>
 </div>
 <h2> Больше примеров </h2>
-<bgcolor="pink">
 
 
 </body>
